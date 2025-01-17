@@ -1,1 +1,1 @@
-This is the first project in The Odin Project's curriculum. A recipes page has to be made. This will include learnings about links, images, html boilerplate, lists, elements and tags and text.
+This is the first project in The Odin Project's curriculum. A recipes page has to be made. This will include learnings about links, images, html boilerplate, lists, elements, tags and text.
