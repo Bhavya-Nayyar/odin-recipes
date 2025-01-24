@@ -1,0 +1,129 @@
+.main {
+    background-color: rgb(248, 229, 207);
+}
+
+.main-heading {
+    background-color: rgb(125, 203, 240);
+    color: rgb(250, 236, 236);
+    text-align: center;
+    font-size: 60px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.main-list {
+    list-style-type: circle;
+    background-color: rgb(241, 163, 118);
+    font-family: Cambria, 'Times New Roman', serif;
+}
+
+.one {
+    background-color: rgb(180, 210, 248);
+}
+
+.button-one {
+    background-color: rgb(165, 245, 189);
+}
+
+.heading-one {
+    background-color: rgb(245, 208, 164);
+    color: rgb(216, 11, 11);
+    text-align: center;
+}
+
+.div-one {
+    background-color: rgb(247, 182, 187);
+    color: rgb(145, 0, 31);
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+    font-weight: bold;
+}
+
+.second-list {
+    background-color: bisque;
+    list-style-type: upper-roman;
+    font-family: Cambria,'Times New Roman', serif;
+    color: rgb(0, 70, 0);
+}
+
+.two {
+    background-color: rgb(182, 243, 182);
+}
+
+.button-two {
+    background-color: rgb(197, 197, 252);
+}
+
+.heading-two {
+    background-color: rgb(241, 206, 162);
+    color:rgb(39, 80, 214);
+    text-align: center;
+}
+
+.div-two {
+    background-color: rgb(235, 159, 159);
+    color:rgb(8, 100, 8);
+    font-family: 'Segoe UI', Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.list-one {
+    background-color: rgb(196, 196, 247);
+    color: rgb(138, 14, 14);
+    font-family: Georgia, 'Times New Roman', serif;
+    list-style-type: square;
+}
+
+.list-two {
+    background-color: rgb(147, 245, 232);
+    color:rgb(11, 8, 146);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', sans-serif;
+    list-style-type: lower-roman;
+}
+
+.three {
+    background-color:rgb(240, 175, 175)
+}
+
+.button-three {
+    background-color: rgb(169, 252, 183);
+}    
+
+.button-one,
+.button-two,
+.button-three {
+    font-family: helvetica, 'Times New Roman', sans-serif;
+}
+
+.heading-three {
+    background-color: rgb(182, 182, 250);
+    color:rgb(7, 107, 20);
+    text-align: center;
+}
+
+.heading-one,
+.heading-two,
+.heading-three {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+}
+
+.div-three {
+    background-color: rgb(215, 180, 248);
+    color: rgb(109, 9, 9);
+    font-family: 'Segoe UI', Verdana, sans-serif;
+    font-weight: bold;
+}
+
+.list-three {
+    background-color: rgb(153, 250, 196);
+    color:rgb(121, 50, 10);
+    font-family: 'Arial Narrow Bold', 'Times New Roman', sans-serif;
+    list-style-type: circle;
+}
+
+.third-list {
+    background-color: rgb(255, 250, 221);
+    color:rgb(133, 4, 32);
+    font-family: Georgia, 'Times New Roman', serif;
+}
+
+
+
