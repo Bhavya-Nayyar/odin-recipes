@@ -125,5 +125,53 @@
     font-family: Georgia, 'Times New Roman', serif;
 }
 
+.heading {
+    margin: auto;
+    text-align: center;
+    width: 500px;
+}
+
+.main-div-one {
+    margin-left: 720px;
+    margin-top: 25px;
+    display: inline-block;
+    text-align: center;
+    width: 150px;
+    background-color: rgb(248, 229, 207);
+}
+
+.main-div-two {
+    margin-left: 50px;
+    display: inline-block;
+    text-align: center;
+    width: 100px; 
+    background-color: rgb(248, 229, 207);
+}
+
+.main-div-three {
+    margin-left: 50px;
+    display: inline-block;
+    text-align: center;
+    width: 100px;
+    background-color: rgb(248, 229, 207);
+}
+
+.main-button-one {
+    background-color: rgb(245, 240, 196);
+    font-family:'Trebuchet MS', 'Times New Roman' , sans-serif;
+    padding: 8px;
+}
+
+.main-button-two {
+    background-color: rgb(248, 200, 188);
+    font-family: 'Trebuchet MS', 'Times New Roman', sans-serif;
+    padding: 8px;
+}
+
+.main-button-three {
+    background-color: rgb(196, 209, 245);
+    font-family: 'Trebuchet MS', 'Times New Roman', sans-serif;
+    padding: 8px;
+}
 
 
